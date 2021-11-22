@@ -33,7 +33,7 @@ This is a simple game of tic tac toe . Most of the games I have seen online requ
 2. The project can be used when the complex mathematical calculations are required and the result will be obtained fastly.
 
 ## How:
-1. 
+1. Can be operated from Personal computer or laptop.
 
 
 # SWOT Analysis

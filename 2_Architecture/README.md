@@ -9,5 +9,5 @@
 ## Low Level Design 
 
 --- TBD Structural and Behavioural Diagram
-![FeaturesLevelStructuralDiagram](Link to Pic)
+![FeaturesLevelStructuralDiagram]()
 ![FeaturesBehaviouralDiagram](Link to Pic)

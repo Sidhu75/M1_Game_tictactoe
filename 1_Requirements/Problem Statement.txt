@@ -2,4 +2,4 @@ Problem Statement:
 
 
 
-tictactoe useing C programming
+tictactoe useing C programming language.

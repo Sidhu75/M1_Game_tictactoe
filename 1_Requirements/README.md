@@ -33,7 +33,7 @@
 
 ## How:
 
-**TBD**
+
 
 # Detail requirements
 ## High Level Requirements:

@@ -3,8 +3,8 @@
 ## High Level Design 
 
 --- TBD Structural and Behavioural Diagram
-![HighLevelStructuralDiagram](https://github.com/janardhannaidu10/M1_Tic-Tac-Toe_C/blob/main/tic-tac-toe-mini-project/image3.jpeg)
-![HighLevelBehaviouralDiagram](https://github.com/janardhannaidu10/M1_Tic-Tac-Toe_C/blob/main/tic-tac-toe-mini-project/image4.jpeg)
+![HighLevelStructuralDiagram](Link to Pic)
+![HighLevelBehaviouralDiagram](Link to Pic)
 
 ## Low Level Design 
 

@@ -57,5 +57,5 @@ combinations then that player wins. The combinations are:
 ![Code Grade](https://api.codiga.io/project/29853/status/svg)
 
 ******
-
+![Code Quality Score](https://app.codiga.io/public/project/29853/M1_Game_tictactoe/dashboard)
 

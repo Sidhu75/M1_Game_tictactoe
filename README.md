@@ -29,9 +29,9 @@ Hence there are only three possible results – a player wins, his opponent
 |  4  |  5  |  6  |
 |  7  |  8  |  9  |
 *****************************
-| 1 | 2 |
+| 1 | 2 | 3 |
 | ----- | ---- |
-| 4 | 5 |
+| 4 | 5 | 6 |
 | Src | Main source code for system |
 | test | All source code and data for testing purposes |
 *********************************************************

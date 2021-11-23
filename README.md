@@ -38,10 +38,10 @@ Hence there are only three possible results – a player wins, his opponent
 If any player is able to draw three Xs or three Os in the following
 combinations then that player wins. The combinations are:
  
- a) 1, 2, 3    b) 4, 5, 6
+ a) 1, 2, 3          b) 4, 5, 6
  
- c) 7, 8, 9    d) 1, 4, 7
+ c) 7, 8, 9          d) 1, 4, 7
  
- e) 2, 5, 8    f) 3, 6, 9
+ e) 2, 5, 8          f) 3, 6, 9
  
- h) 1, 5, 9    i) 3, 5, 7 
+ h) 1, 5, 9          i) 3, 5, 7 

@@ -1,6 +1,17 @@
 ## M1_Game_tictactoe
 This is a simple game of tic tac toe . Most of the games I have seen online require two players, and I wanted to try creating a game where one player plays against the computer.
+******************************
 
+# Code Quality Score
+![Code Quality Score](https://api.codiga.io/project/29853/score/svg)
+
+# Code Grade
+![Code Grade](https://api.codiga.io/project/29853/status/svg)
+
+******
+# repo size
+![Code Grade](https://img.shields.io/github/repo-size/18030288/M1_Game_tictactoe)
+***************************************
 ## Flow Chart
 ![image](https://user-images.githubusercontent.com/67543660/142911477-f821cb9f-6c15-4ee7-8871-14f96b7b14b6.png)
 ***************************************************************
@@ -47,15 +58,5 @@ combinations then that player wins. The combinations are:
  h) 1, 5, 9          i) 3, 5, 7 
 
 *****************************************************
-
-# Code Quality Score
-![Code Quality Score](https://api.codiga.io/project/29853/score/svg)
-
-# Code Grade
-![Code Grade](https://api.codiga.io/project/29853/status/svg)
-
-******
-# repo size
-![Code Grade](https://img.shields.io/github/repo-size/18030288/M1_Game_tictactoe)
 
 

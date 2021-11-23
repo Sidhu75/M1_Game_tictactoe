@@ -60,4 +60,5 @@ combinations then that player wins. The combinations are:
 [![Code Quality](https://app.codacy.com/project/badge/Grade/23635f1fa4184594a2995cb15649ab93)](https://www.codacy.com/gh/cedricxavi/M1_Application_Scientific_Calculator/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=cedricxavi/M1_Application_Scientific_Calculator&amp;utm_campaign=Badge_Grade)
 
 **
+
 https://img.shields.io/ansible/quality/xyz

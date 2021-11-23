@@ -49,13 +49,13 @@ combinations then that player wins. The combinations are:
 *****************************************************
 # Linux OS Build
 [![C/C++ CI](https://github.com/cedricxavi/M1_Application_Scientific_Calculator/actions/workflows/linux.yml/badge.svg)](https://github.com/cedricxavi/M1_Application_Scientific_Calculator/actions/workflows/linux.yml)
-**
+****
 # Code Quality Score
 ![Code Quality Score](https://api.codiga.io/project/29853/score/svg)
 
 # Code Grade
 ![Code Grade](https://api.codiga.io/project/29853/status/svg)
 
-**
+******
 
 

@@ -46,7 +46,7 @@ combinations then that player wins. The combinations are:
  
  h) 1, 5, 9          i) 3, 5, 7 
 
-**
+*****************************************************
 # Linux OS Build
 [![C/C++ CI](https://github.com/cedricxavi/M1_Application_Scientific_Calculator/actions/workflows/linux.yml/badge.svg)](https://github.com/cedricxavi/M1_Application_Scientific_Calculator/actions/workflows/linux.yml)
 **

@@ -31,7 +31,7 @@ Hence there are only three possible results – a player wins, his opponent
 *****************************
 | 1 | 2 |
 | ----- | ----- |
-| 4 | All header files |
+| 4 | 5 |
 | Src | Main source code for system |
 | test | All source code and data for testing purposes |
 *********************************************************

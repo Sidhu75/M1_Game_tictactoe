@@ -28,6 +28,13 @@ Hence there are only three possible results – a player wins, his opponent
 |  1  |  2  |  3  |
 |  4  |  5  |  6  |
 |  7  |  8  |  9  |
+*****************************
+| Column 1 Header | Column 2 Header |
+| ----- | ----- |
+| Inc | All header files |
+| Src | Main source code for system |
+| test | All source code and data for testing purposes |
+*********************************************************
 
 If any player is able to draw three Xs or three Os in the following
 combinations then that player wins. The combinations are:

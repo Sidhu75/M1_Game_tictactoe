@@ -6,7 +6,7 @@
 
 #TICTACTOE GAME
 
-This is a simple TIC TAC TOE game made in C language :
+This is a simple TIC TAC TOE game made with C language :
 
 In this game, 
 

@@ -30,7 +30,7 @@ Hence there are only three possible results – a player wins, his opponent
 |  7  |  8  |  9  |
 *****************************
 | 1 | 2 |
-| ----- | ----- |
+| ----- | ---- |
 | 4 | 5 |
 | Src | Main source code for system |
 | test | All source code and data for testing purposes |

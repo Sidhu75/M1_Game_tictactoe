@@ -3,7 +3,7 @@ This is a simple game of tic tac toe . Most of the games I have seen online requ
 
 ## Flow Chart
 ![image](https://user-images.githubusercontent.com/67543660/142911477-f821cb9f-6c15-4ee7-8871-14f96b7b14b6.png)
-
+***************************************************************
 ## Theory of Game:
 
 A player can choose between two symbols with his opponent, usual games

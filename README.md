@@ -61,4 +61,4 @@ combinations then that player wins. The combinations are:
 
 **
 
-https://img.shields.io/ansible/quality/xyz
+

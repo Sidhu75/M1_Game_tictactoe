@@ -29,9 +29,9 @@ Hence there are only three possible results – a player wins, his opponent
 |  4  |  5  |  6  |
 |  7  |  8  |  9  |
 *****************************
-| Column 1 Header | Column 2 Header |
+| 1 | 2 |
 | ----- | ----- |
-| Inc | All header files |
+| 4 | All header files |
 | Src | Main source code for system |
 | test | All source code and data for testing purposes |
 *********************************************************

@@ -117,4 +117,35 @@ int checkwin()
 }
 
 
+/***********************
+FUNCTION TO DRAW BOARD OF TIC TAC TOE WITH PLAYERS MARK
+ ************************/
 
+
+void board()
+{
+    system("cls");
+    printf("\n\n\tTic Tac Toe\n\n");
+
+    printf("Player 1 (X)  -  Player 2 (O)\n\n\n");
+
+
+    printf("     |     |     \n");
+    printf("  %c  |  %c  |  %c \n", square[1], square[2], square[3]);
+
+    printf("__|_|__\n");
+    printf("     |     |     \n");
+
+    printf("  %c  |  %c  |  %c \n", square[4], square[5], square[6]);
+
+    printf("__|_|__\n");
+    printf("     |     |     \n");
+
+    printf("  %c  |  %c  |  %c \n", square[7], square[8], square[9]);
+
+    printf("     |     |     \n\n");
+}
+
+/***********************
+END OF PROJECT
+ ************************/

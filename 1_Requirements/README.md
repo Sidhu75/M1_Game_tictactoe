@@ -43,7 +43,10 @@ This is a simple game of tic tac toe . Most of the games I have seen online requ
 
 
 ## Weakness:
-1. limited Features .
+1. GUI is not so attractive.
+2. Only mouse interface is implemented, keyboard is not activated in the
+game. 
+
 
 
 # High Level Requirements

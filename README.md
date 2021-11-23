@@ -56,6 +56,6 @@ combinations then that player wins. The combinations are:
 
 ******
 # repo size
-https://img.shields.io/github/repo-size/18030288/M1_Game_tictactoe
+![Code Grade](https://img.shields.io/github/repo-size/18030288/M1_Game_tictactoe)
 
 

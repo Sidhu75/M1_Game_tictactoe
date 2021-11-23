@@ -48,7 +48,7 @@ combinations then that player wins. The combinations are:
 
 **
 # Linux OS Build
-[![C/C++ CI](https://github.com/18030288/M1_Game_tictactoe/actions/workflows/linux.yml/badge.svg)](https://github.com/cedricxavi/M1_Application_Scientific_Calculator/actions/workflows/linux.yml)
+[![C/C++ CI](https://github.com/cedricxavi/M1_Application_Scientific_Calculator/actions/workflows/linux.yml/badge.svg)](https://github.com/cedricxavi/M1_Application_Scientific_Calculator/actions/workflows/linux.yml)
 **
 # Code Quality Score
 ![Code Quality Score](https://api.codiga.io/project/29814/score/svg)

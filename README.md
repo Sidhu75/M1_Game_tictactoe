@@ -25,9 +25,7 @@ game results a tie.
 Hence there are only three possible results – a player wins, his opponent
 (human or computer) wins or it’s a tie. 
 
-|  1  |  2  |  3  |
-|  4  |  5  |  6  |
-|  7  |  8  |  9  |
+
 *****************************
 | 1 | 2 | 3 |
 | --- | --- | --- |

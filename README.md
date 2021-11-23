@@ -47,6 +47,14 @@ combinations then that player wins. The combinations are:
  h) 1, 5, 9          i) 3, 5, 7 
 
 
+# Linux OS Build
+[![C/C++ CI](https://github.com/cedricxavi/M1_Application_Scientific_Calculator/actions/workflows/linux.yml/badge.svg)](https://github.com/cedricxavi/M1_Application_Scientific_Calculator/actions/workflows/linux.yml)
 
+# Code Quality Score
+![Code Quality Score](https://api.codiga.io/project/29814/score/svg)
 
-  https://camo.githubusercontent.com/ff1178d80c03b00601353147ca76e5cfa077dfc771184620b6b161b84cd240a1/68747470733a2f2f6170692e636f646163792e636f6d2f70726f6a6563742f62616467652f47726164652f3166373434363738613832633437663861316434356532333031363962386364
+# Code Grade
+![Code Grade](https://api.codiga.io/project/29814/status/svg)
+
+# Code Quality
+[![Code Quality](https://app.codacy.com/project/badge/Grade/23635f1fa4184594a2995cb15649ab93)](https://www.codacy.com/gh/cedricxavi/M1_Application_Scientific_Calculator/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=cedricxavi/M1_Application_Scientific_Calculator&amp;utm_campaign=Badge_Grade)

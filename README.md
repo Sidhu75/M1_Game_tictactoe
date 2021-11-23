@@ -55,5 +55,7 @@ combinations then that player wins. The combinations are:
 ![Code Grade](https://api.codiga.io/project/29853/status/svg)
 
 ******
+# repo size
+https://img.shields.io/github/repo-size/18030288/M1_Game_tictactoe
 
 

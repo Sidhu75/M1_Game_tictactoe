@@ -33,7 +33,7 @@ Hence there are only three possible results – a player wins, his opponent
 | --- | --- | --- |
 | 4 | 5 | 6
 | 7 | 8 | 9 |
-| HLR_3 | DIFFICULTY LEVEL : We can add more obstacles in this game. | Implemented |
+
 
 *********************************************************
 
